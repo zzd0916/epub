@@ -6,10 +6,10 @@
 
 <style>
 </style>
-
+ 
 <script>
 export default {
-  name: "App"
+  name: "App" 
 }
 
 document.addEventListener('DOMContentLoaded',()=>{
